@@ -33,6 +33,7 @@
 
 .card {
   margin-right: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   padding: 13px;
   max-width: 222px;
   width: 222px;

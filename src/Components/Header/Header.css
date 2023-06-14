@@ -108,6 +108,7 @@
 
 .loginPage hr {
   margin: 0;
+  margin-right: 100px;
   background-color: black;
   height: 2px;
 }
